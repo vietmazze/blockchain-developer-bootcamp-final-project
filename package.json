@@ -1,0 +1,24 @@
+{
+  "name": "blockchain-developer-bootcamp-final-project",
+  "version": "1.0.0",
+  "description": "**Gifting NFT** - What if we an gift your special one an NFT on Christmas, or your lover on anniversary? - What if NFTs are the new gift card in the future, and on that special day you send someone a NFTs.  - These NFTs can be an art, a gen. membership card, or anything ERC721 token",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vietmazze/blockchain-developer-bootcamp-final-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vietmazze/blockchain-developer-bootcamp-final-project/issues"
+  },
+  "homepage": "https://github.com/vietmazze/blockchain-developer-bootcamp-final-project#readme",
+  "devDependencies": {
+    "@openzeppelin/contracts": "^4.3.2",
+    "truffle": "^5.4.14"
+  }
+}
